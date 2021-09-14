@@ -205,8 +205,8 @@ section{
 
 @media screen and (min-width: 1081px) {
 
-    .hamburger-btn{
-        display: none;
+    #hamburger-btn{
+        display: none !important;
     }
 
     .nav-item:first-of-type{
